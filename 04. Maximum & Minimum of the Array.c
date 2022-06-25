@@ -1,9 +1,8 @@
 #include <stdio.h>
-#include <limits.h>
 
 int maximum(int arr[], int n)
 {
-    int max = INT_MIN;
+    int max = arr[0];
 
     for (int i = 0; i < n; i++)
     {
@@ -16,7 +15,7 @@ int maximum(int arr[], int n)
 
 int minimum(int arr[], int n)
 {
-    int min = INT_MAX;
+    int min = arr[0];
 
     for (int i = 0; i < n; i++)
     {

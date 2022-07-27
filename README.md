@@ -13,7 +13,7 @@ LAB Assignment of Design & Analysis of Algorithm.
 | 7.  | Fractional Knapsack Problem |
 | 8.  | Single Source Shortest Paths Algorithm |
 | 9.  | Minimum Cost Spanning Tree using Kruskal's Algorithm |
-| 10. | GRAPH TRAVERSALS(BFS AND DFS) |
+| 10. | Graph Traversals(BFS & DFS) |
 | 11. | Sum of Subsets Problem |
 | 12. | Travelling Sales Person Problem |
 | 13. | Minimum Cost Spanning Tree using Prim's Algorithm |

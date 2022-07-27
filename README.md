@@ -4,24 +4,24 @@ LAB Assignment of Design & Analysis of Algorithm.
 
 | Sl.No. | Experiment Name |
 | --- | --- |
-|1.  | BINARY SEARCH ALGORITHM |
-|2.  | QUICK SORT ALGORITHM |
-|3.  | MERGE SORT ALGORITHM |
-|4.  | FIND THE MAXIMUM AND MINIMUM ELEMENT FROM AN ARRAY |
-|5.  | FIND THE MINIMUM NUMBER OF SCALAR MULTIPLICATION FOR CHAIN OF MATRIX |
-|6.  | WARSHALL’S ALGORITHM |
-|7.  | FRACTIONAL KNAPSACK PROBLEM |
-|8.  | SINGLE SOURCE SHORTEST PATHS ALGORITHM |
-|9.  | MINIMUM COST SPANNING TREE USING KRUSKAL’S ALGORITHM |
-|10. | GRAPH TRAVERSALS(BFS AND DFS) |
-|11. | SUM OF SUB SETS PROBLEM |
-|12. | TRAVELLING SALES PERSON PROBLEM |
-|13. | MINIMUM COST SPANNING TREE USING PRIM’S ALGORITHM |
-|14. | ALL PAIRS SHORTEST PATHS ALGORITHM |
-|15. | N QUEENS PROBLEM |
-|16. | GRAPH COLORING PROBLEM |
-|17. | 15-PUZZLE PROBLEM |
-|18. | JOB SEQUENCING WITH DEADLINES |
-|19. | HAMILTONIAN PROBLEM |
-|20. | STRASSEN’S MATRIX MULTIPLICATION ALGORITHM |
-|21. | 0/1 KNAPSACK PROBLEM |
+| 1.  | Binary Search Algorithm |
+| 2.  | Quick Sort Algorithm |
+| 3.  | Merge Sort Algorithm |
+| 4.  | Find the Maximum & Minimum Element from an Array |
+| 5.  | Find the Minimum Number of Scaler Multiplication for Chain of Matrix |
+| 6.  | Warshall's Algorithm |
+| 7.  | Fractional Knapsack Problem |
+| 8.  | Single Source Shortest Paths Algorithm |
+| 9.  | Minimum Cost Spanning Tree using Kruskal's Algorithm |
+| 10. | GRAPH TRAVERSALS(BFS AND DFS) |
+| 11. | Sum of Subsets Problem |
+| 12. | Travelling Sales Person Problem |
+| 13. | Minimum Cost Spanning Tree using Prim's Algorithm |
+| 14. | All Pairs Shortest Paths Algorithm |
+| 15. | N-Queens Problem |
+| 16. | Graph Coloring Problem |
+| 17. | 15-Puzzle Problem |
+| 18. | Job Sequencing with Deadlines |
+| 19. | Hamiltonian Problem |
+| 20. | Strassen's Matrix Multiplication Algorithm |
+| 21. | 0/1 Knapsack Problem |
